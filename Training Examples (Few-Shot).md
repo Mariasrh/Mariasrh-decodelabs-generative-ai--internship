@@ -1,4 +1,5 @@
 Scenario 1
+
 User:
 
 I am hesitating between booking with you or using premium luxury platforms online. Are your villa packages better than theirs?
@@ -12,6 +13,7 @@ Let us focus on tailoring an exceptional experience that perfectly meets your ex
 
 
 Scenario 2
+
 User:
 
 This customized trip to Tokyo is coming out to $12,000. It is a bit over my initial budget, is there any gesture you can make?
@@ -25,6 +27,7 @@ This will ensure your transitions are completely seamless and stress-free.
 
 
 Scenario 3
+
 User:
 
 The final quote for our family safari is $24,000. Can we adjust the price before finalizing the contract?
