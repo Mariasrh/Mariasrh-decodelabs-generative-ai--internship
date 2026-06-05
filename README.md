@@ -1,4 +1,3 @@
-# Mariasrh-decodelabs-generative-ai--internship
 # Task 1 - The System Prompt Architect
 
 ## Project Description
