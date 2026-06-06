@@ -1,1 +1,23 @@
+Generate a high-fidelity image based on the following structural instructions:
 
+CORE PROMPT
+A high-angle photograph looking down into the massive reception atrium of a luxury, high-tech corporate headquarters. 
+The interior architecture is strictly minimalist, constructed from smooth dark concrete panels and panels of industrial brushed steel.
+Embedded directly into the center of the polished, reflective dark terrazzo floor is a massive, physical architectural structure made of luminous sapphire glass. This central structure forms a precise, geometric 'C' shape, functioning seamlessly as a luxury reception desk and architectural centerpiece.
+In the mid-ground, a refined receptionist is visible at the desk but softly blurred to emphasize the grand scale of the room.
+Clean, powerful, and high-end corporate identity.
+
+LIGHTING STYLE
+The environment features sophisticated, dynamic architectural lighting.
+The primary illumination comes directly from within the sapphire glass floor installation, casting a vibrant, precise neon cyan (Hex: 00FFFF) geometric glow onto the dark polished floor and lower walls.
+This cool cyan light sharply contrasts with the deep, clean shadows of the minimalist room. 
+Ambient ceiling lights are kept dim, cool, and diffused to highlight the raw textures of the concrete and metal.
+
+ASPECT RATIO
+Strictly 16:9 widescreen format.
+
+NEGATIVE PROMPT 
+Do not include bright natural daylight, sunlight streaming through windows, or warm, golden interior lighting.
+Avoid cluttered or messy office environments, traditional wooden furniture, plants, or organic decorations.
+The geometric 'C' structure must not be warped, asymmetrical, or abstract; its architectural lines must remain perfectly sharp and mathematically aligned.
+Avoid random written text, corporate signs with gibberish lettering, low-resolution artifacts, or low-angle perspectives.
