@@ -1,1 +1,20 @@
+Generate a high-fidelity image based on the following structural instructions:
 
+CORE PROMPT
+A flat lay composition of nine minimalist, geometric user interface (UI) icons arranged perfectly in a clean, symmetrical 3x3 grid layout.
+The icons are displayed on a flat, brushed dark metallic surface.
+The icon set includes a specialized 'Secure Data Node' (which integrates a sharp, geometric 'C' shape with a central vertical pillar and an isometric border), a 'Network Map' made of connected nodes, and a 'Quantum Encryption Key'.
+Every icon in the grid shares an identical, sharp, precise line aesthetic with uniform line weight.
+
+LIGHTING STYLE
+The lighting is cool, clinical, and uniform, simulating the clean, soft backlighting of a high-tech monitor screen.
+Each icon emits a sharp, vibrant neon cyan (Hex: 00FFFF) glow.
+There is minimal light bleed onto the dark metal surface, maintaining maximum contrast and avoiding heavy ambient shadows or dramatic highlights.
+
+ASPECT RATIO
+Strictly 16:9 widescreen format.
+
+NEGATIVE PROMPT 
+Do not include any written text labels, words, titles, or descriptions under or around the icons.
+Avoid 3D rendered depth, bulky volumetric shapes, heavy drop shadows, or realistic skeuomorphic textures. 
+Do not use curved or organic lines, multi-colored neon gradients, complex illustrations, cluttered arrangements, or warm, ambient lighting.
