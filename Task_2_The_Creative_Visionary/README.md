@@ -15,11 +15,11 @@ The main goal was to generate high-fidelity, brand-consistent visual assets for 
 
 ## Key Components Included
 
-*   **Image 1:** Concept de Logo (Brand Anchor)
-*   **Image 2:** Image Hero (Website Banner)
-*   **Image 3:** Set d'Icônes (UI Interface Systems)
-*   **Image 4:** Atout Réseaux Sociaux (Human & AR Interaction)
-*   **Image 5:** Intérieur de Bureau (Brand Architecture)
+*   **Image 1:** Logo Concept (Brand Anchor)
+*   **Image 2:** Hero Image (Website Banner)
+*   **Image 3:** Icon Set (UI Interface Systems)
+*   **Image 4:** Social Media Asset (Human & AR Interaction)
+*   **Image 5:** Office Interior (Brand Architecture)
 
 ## Final Evaluation
 
