@@ -1,1 +1,22 @@
+Generate a high-fidelity image based on the following structural instructions:
 
+CORE PROMPT
+A sweeping, hyper-detailed panoramic photograph of a cyberpunk metropolis at night.
+Dominating the upper center is a massive, obsidian corporate skyscraper. 
+Integrated into the facade of the tower, hundreds of meters high, is a titanic digital projection of a geometric 'C' monogram logo containing a subtle lightning bolt shape.
+Flying vehicles pass closely in front of the logo, emphasizing its colossal scale. The scene represents absolute corporate power and cold efficiency.
+
+LIGHTING STYLE
+The overall lighting is dark, moody, and low-key.
+The primary light source is the intense, brilliant neon cyan (Hex: 00FFFF) glow emanating from the giant logo projection.
+This cool cyan light cuts through the darkness and casts reflections onto the misty atmosphere and the wet surfaces of the tower.
+Far below, the city streets are slick with rain, catching distant, blurred reflections of magenta and deep blue neon signs.
+
+ASPECT RATIO
+Strictly 21:9 ultra-wide cinematic panoramic format.
+
+NEGATIVE PROMPT 
+Do not include bright daylight, sunlight, clear blue skies, or warm golden hour lighting.
+Avoid organic, natural, or classical historical architecture. 
+The corporate logo projection must not be blurry, distorted, or low-resolution; its geometric lines must remain sharp and mathematically precise.
+Do not feature close-ups of people, smiling faces, green vegetation, or cluttered, messy environments.
