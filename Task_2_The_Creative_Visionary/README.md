@@ -1,42 +1,26 @@
-# Task 2: The Creative Visionary  — Cyberpunk-Corporate Rebranding
+# Task 2 - The Creative Visionary 🎨
 
-##   Scenario & Context
-A tech startup is undergoing a complete rebranding and requires high-quality, high-fidelity visual assets for its website, social media, and physical corporate spaces. Because standard stock photos are too generic to convey innovation, this project establishes a unique **"Cyberpunk-Corporate"** aesthetic that remains strictly consistent across all brand touchpoints.
+## Project Description
 
----
+This work was created for the DecodeLabs Generative AI Internship program.
+The main goal was to generate high-fidelity, brand-consistent visual assets for a tech startup rebranding using advanced Image Generation Models. **ChatGPT (DALL-E 3)** was utilized to interpret and execute the advanced prompt engineering structures to achieve these results.
 
-##   Mission Objectives
-*   **Brand Consistency:** Develop a series of 5 high-fidelity visual assets centered around a cohesive visual identity, using a specific geometric logo and a signature Cyan (`#00FFFF`) brand color.
-*   **Advanced Prompt Engineering:** Orchestrate complex prompts by systematically decomposing them into explicit blocks for Core Concepts, Lighting Styles, Aspect Ratios, and Negative Constraints.
-*   **Image-to-Image Workflow Simulation:** Re-use and adapt the primary geometric asset across different operational contexts (digital interfaces, wide-angle environments, physical architecture, and human interaction).
+## Core Concepts Applied
 
----
+*   Advanced Prompt Engineering (Negative prompts, aspect ratios, and lighting styles)
+*   Image-to-Image Consistency Workflows
+*   Visual Identity & Brand Anchoring
+*   Cyberpunk-Corporate Aesthetic Synthesis
+*   Cross-Platform Asset Scalability (Digital, Print, Architecture)
 
-##   Global Brand Guidelines
-*   **Primary Brand Color:** Neon Cyan (Hex: `#00FFFF`) — symbolizes advanced data flows and hyper-connectivity.
-*   **Secondary Atmosphere:** Deep Obsidian/Matte Black — represents corporate stability and cold, high-tech efficiency.
-*   **Design Language:** Mathematical symmetry, sharp isometric angles, and minimalist high-contrast typography.
+## Key Components Included
 
----
+*   **Image 1:** Concept de Logo (Brand Anchor)
+*   **Image 2:** Image Hero (Website Banner)
+*   **Image 3:** Set d'Icônes (UI Interface Systems)
+*   **Image 4:** Atout Réseaux Sociaux (Human & AR Interaction)
+*   **Image 5:** Intérieur de Bureau (Brand Architecture)
 
-##   Visual Asset Pipeline & Advanced Prompts
+## Final Evaluation
 
-### 1. Logo Concept (The Brand Anchor)
-*This foundational asset defines the core geometric flow and color parameters referenced throughout the entire campaign.*
-
-![Logo Concept](assets/logo_reference.png)
-
-```text
-Generate a high-fidelity image based on the following structural instructions:
-
-[CORE PROMPT]
-A minimalist, professional corporate logo for a tech startup. The design is a futuristic geometric monogram combining a stylized letter 'C' and a subtle lightning bolt. Precise lines, mathematical symmetry, high-tech minimalism, and a cyberpunk corporate identity. The overall impression is powerful and secure. 
-
-[LIGHTING STYLE]
-The logo is rendered in a sharp, glowing neon cyan color (Hex: 00FFFF) set against a profound, completely pitch-black matte background. The only illumination source is the vibrant internal neon glow of the logo itself, creating an intense, high-contrast visual.
-
-[ASPECT RATIO]
-Strictly 1:1 square format.
-
-[NEGATIVE PROMPT / CONSTRAINTS]
-Do not include any written text, words, letters, fonts, or typography other than the abstract 'C' geometry itself. Avoid realistic photographic textures, shadows, color gradients, complex background patterns, organic or rounded shapes, multiple colors, noise, or low-resolution artifacts.
+By standardizing the prompts into distinct operational blocks, the **ChatGPT (DALL-E 3)** architecture perfectly keeps asset consistency across different scenes. It successfully enforces the unique "Cyberpunk-Corporate" aesthetic, maintains the exact geometric logo structure, and eliminates forbidden elements via strict negative constraints with absolute professionalism.
