@@ -1,13 +1,18 @@
 Generate a high-fidelity image based on the following structural instructions:
 
 CORE PROMPT
-A minimalist, professional corporate logo for a tech startup. The design is a futuristic geometric monogram combining a stylized letter 'C' and a subtle lightning bolt. Precise lines, mathematical symmetry, high-tech minimalism, and a cyberpunk corporate identity. The overall impression is powerful and secure. 
+A minimalist, professional corporate logo for a tech startup. 
+The design is a futuristic geometric monogram combining a stylized letter 'C' and a subtle lightning bolt.
+Precise lines, mathematical symmetry, high-tech minimalism, and a cyberpunk corporate identity.
+The overall impression is powerful and secure. 
 
 LIGHTING STYLE
-The logo is rendered in a sharp, glowing neon cyan color (Hex: 00FFFF) set against a profound, completely pitch-black matte background. The only illumination source is the vibrant internal neon glow of the logo itself, creating an intense, high-contrast visual.
+The logo is rendered in a sharp, glowing neon cyan color (Hex: 00FFFF) set against a profound, completely pitch-black matte background.
+The only illumination source is the vibrant internal neon glow of the logo itself, creating an intense, high-contrast visual.
 
 ASPECT RATIO
 Strictly 1:1 square format.
 
 NEGATIVE PROMPT 
-Do not include any written text, words, letters, fonts, or typography other than the abstract 'C' geometry itself. Avoid realistic photographic textures, shadows, color gradients, complex background patterns, organic or rounded shapes, multiple colors, noise, or low-resolution artifacts.
+Do not include any written text, words, letters, fonts, or typography other than the abstract 'C' geometry itself.
+Avoid realistic photographic textures, shadows, color gradients, complex background patterns, organic or rounded shapes, multiple colors, noise, or low-resolution artifacts.
