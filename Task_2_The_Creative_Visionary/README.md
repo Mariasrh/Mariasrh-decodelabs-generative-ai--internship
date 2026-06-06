@@ -1,4 +1,4 @@
-# Task 2 - The Creative Visionary 🎨
+# Task 2 - The Creative Visionary 
 
 ## Project Description
 
