@@ -1,1 +1,23 @@
+Generate a high-fidelity image based on the following structural instructions:
 
+CORE PROMPT
+A high-fashion, candid portrait photograph of a stylish young female data analyst standing in a high-tech server room.
+Projected directly onto her face and her tailored, sharp corporate blazer is a crisp digital light pattern forming a geometric monogram logo (a stylized, sharp-edged letter 'C').
+The projection subtly wraps and warps across the physical contours of her face and jacket.
+She has a focused, professional expression and wears sleek, transparent smart glasses.
+The background consists of dark server racks that fade out of focus into beautiful, soft round light shapes.
+
+LIGHTING STYLE
+The scene uses distinct low-key, atmospheric lighting.
+The absolute primary light source is the intense, vibrant neon cyan (Hex: 00FFFF) glow from the logo projection, casting cool highlights onto her skin and clothing.
+The background servers provide a secondary, dim ambient lighting, blurring out into a soft blue and purple bokeh effect. 
+Deep shadows dominate the environment to emphasize the cyberpunk mood.
+
+ASPECT RATIO
+Strictly 1:1 square format.
+
+NEGATIVE PROMPT 
+Do not use bright overall studio lighting, daylight, or warm golden hour light sources.
+The subject must not have a cheerful or widely smiling expression.
+Avoid low-resolution digital noise, pixelated light beams, or a distorted, unorganized logo shape. 
+Do not include any random written text, AI-generated gibberish letters, messy or cluttered environments, green vegetation, or high-contrast background highlights that distract from the subject.
